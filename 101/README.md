@@ -2,5 +2,5 @@
 ### 101
 
 ###### *basic recon*
-![](./pics/basic_recon.png)
+![](./pics/basic_recon_bg.png)
 

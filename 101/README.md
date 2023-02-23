@@ -29,3 +29,5 @@ call sym.imp.system
 so all we need to do is to change the value at rbp-0x4 to anything else other than 0x539
 so we will just fill what was intneded to be filled by gets and add 1 to change a byte ar rbp-0x4
 ```
+
+![](./pics/101_done.png)

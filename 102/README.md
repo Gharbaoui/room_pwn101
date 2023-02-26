@@ -56,3 +56,5 @@ the value 0xcoff33
 btw as we saw before that out binary is littel endian keep that
 in mind
 ```
+
+![](./pics/done.png)

@@ -23,4 +23,7 @@ program is using scanf aka no boundry check
 let's see flow of the program
 
 ![](./pics/call_graph.png)
+
+
+
 ![](./pics/call_graph1.png)

@@ -51,3 +51,27 @@ so i'll start there
 ![](./pics/general_2.png)
 
 ![](./pics/general_3.png)
+
+````
+as you can see that there's scanf that's good
+you may see that strcmp but it does not matter
+because i want to end up in the try harder we 
+should only avoid "yes" as input becuase strcmp
+using it and why all of this because i intend to
+put address of admins_only using the above scanf
+and i should reach ret instruction that's why i want
+to go to try harder block
+````
+
+#### *Exploit*
+
+![](./pics/admins_addr.png)
+
+````
+scanf is called with '%s' and with rbp-0x20
+we need to fill this 0x20 with random stuff
+and btw at the top of the stack there's rbp
+since binary is 64 bit that means that rbp is 64 bit
+so we need to add 8 bytes and then we will put the 
+address of admins_only function
+````

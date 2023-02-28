@@ -38,3 +38,16 @@ can we get to this function to
 when i looked for who is calling admins_only i could not find any refrence
 so we need to override the instruction register to jump to it
 ````
+
+#### *flow*
+
+````
+when we interact with program i will target general case and there's function called general
+so i'll start there
+````
+
+![](./pics/general_1.png)
+
+![](./pics/general_2.png)
+
+![](./pics/general_3.png)

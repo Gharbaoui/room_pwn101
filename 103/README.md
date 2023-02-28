@@ -35,4 +35,6 @@ and i think that we will have to interact with strncmp somehow
 ````
 we see that system is beign called by sym.admins_only let's find out how
 can we get to this function to
+when i looked for who is calling admins_only i could not find any refrence
+so we need to override the instruction register to jump to it
 ````

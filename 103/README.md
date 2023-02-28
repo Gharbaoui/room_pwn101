@@ -22,3 +22,9 @@ detected probabaly
 #### *what the binary is using*
 
 ![](./pics/imports.png)
+
+````
+we see that __isoc99_scanf means that i will try to override something
+and we see also system so probably a shell will be given to us
+and i think that we will have to interact with strncmp somehow
+````

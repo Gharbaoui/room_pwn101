@@ -14,3 +14,7 @@ is interacting with me at first Segmentation fault which is good
 signal probably no canary if it was i would got stack smashing
 detected probabaly
 ````
+
+#### basic recon
+
+![](./pics/basic_recon.png)

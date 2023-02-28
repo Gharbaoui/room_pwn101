@@ -18,3 +18,7 @@ detected probabaly
 #### basic recon
 
 ![](./pics/basic_recon.png)
+
+#### *what the binary is using*
+
+![](./pics/imports.png)

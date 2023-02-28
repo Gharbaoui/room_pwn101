@@ -28,3 +28,11 @@ we see that __isoc99_scanf means that i will try to override something
 and we see also system so probably a shell will be given to us
 and i think that we will have to interact with strncmp somehow
 ````
+
+#### *how can we get to system*
+![](./pics/system_trace1.png)
+
+````
+we see that system is beign called by sym.admins_only let's find out how
+can we get to this function to
+````
